@@ -1,5 +1,5 @@
 var blueSkyBuffer = null;
-var context = new webkitAudioContext();
+var context = new AudioContext();
 var average;
 var average2;
 
